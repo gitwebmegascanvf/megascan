@@ -1,0 +1,42 @@
+h1
+ {color: rgb(255, 255, 255);
+}
+p
+{color: rgb(0, 0, 0);
+}
+h1
+{text-align: center;
+}
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-image:url("img/Mega\ Scan\ VF.jpg");
+    padding: 0 20px 20px 20px;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #ffffff;
+    
+  }
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body {
+    text-align: left;
+}
+pre{
+  text-align: left;
+}
+img{
+  text-align: left;
+}
+body{
+  text-decoration: rgb(243, 239, 239);
+}
+strong{
+color: #000000;
+}
+header{
+  background-color: #ecece9;
+}
